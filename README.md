@@ -5,7 +5,10 @@
 - 💻 I'm an undergraduate Computer Engineering student at KMITL.
 
 
-![gif_1](https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif)
+<p align="center">
+  <img src="https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif" alt="GIF">
+</p>
+
 
 # 😉 Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffwatcharin&hide=stars&theme=vue)
