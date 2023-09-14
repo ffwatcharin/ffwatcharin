@@ -3,6 +3,7 @@
 ![ffwatcharin Banner Image](./Github_Banner.png)
 # 😎 About Me 
 - 💻 I'm an undergraduate Computer Engineering student at KMITL.
+- 📱 I'm interested in Mobile developer.
 
 
 <p align="center">
