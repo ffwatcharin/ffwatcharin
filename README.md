@@ -6,9 +6,7 @@
 
 
 
-<p align="center">
-  <img src="https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif" alt="GIF">
-</p>
+
 
 
 
